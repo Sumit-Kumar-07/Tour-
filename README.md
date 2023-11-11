@@ -6,6 +6,7 @@ I have made the cards which contaons the data of the tour package like place, pr
 The above screenshot is the UI for my project.
 
 #FUNCTIONALITY
+
 In this project there is a button "Not Interested". If u will click on it, it will remove that card from your UI.
 Basically, Filtering is applied here to do so.
 
