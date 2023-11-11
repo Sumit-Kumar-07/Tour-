@@ -1,7 +1,6 @@
 This is the my first REACT project. 
 I have made the cards which contaons the data of the tour package like place, price and description.
 
-![Screenshot 2023-11-11 185846](https://github.com/Sumit-Kumar-07/Tour-/assets/109451363/5cafc3ac-3ed3-4426-8fe0-87032aa12a7f)
 ![Screenshot 2023-11-11 191500](https://github.com/Sumit-Kumar-07/Tour-/assets/109451363/63e18378-7a8a-451d-8453-66c6e5f516f7)
 The above screenshot is the UI for my project.
 
